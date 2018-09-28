@@ -45,7 +45,7 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
 */
 
 const char *ssid     = "VKD_2.4GHz";
-const char *password = "4K1PtxT4";
+const char *password = "password";
 
 
 const char host[] = "api.coinmarketcap.com";
